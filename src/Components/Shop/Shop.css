@@ -9,3 +9,7 @@
   margin-top: 30px;
   margin-left: 20px;
 }
+.cart-container {
+  background: rgba(255, 153, 0, 0.3);
+  padding-left: 20px;
+}
